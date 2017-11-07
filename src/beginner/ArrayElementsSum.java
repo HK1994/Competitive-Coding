@@ -1,11 +1,15 @@
 package beginner;
 
 import java.util.Scanner;
-
 /**
  * Created by Administrator on 11/7/2017.
  */
-
+/*Print the array in reverse order in a single line separated by space.
+Each array is to be printed in separate line.
+Constraints:
+1 <= T <= 100
+1 <= N <=100
+0 <= Arr[i] <= 100*/
 public class ArrayElementsSum {
 
     static int arraySum(int arr[],int size)
