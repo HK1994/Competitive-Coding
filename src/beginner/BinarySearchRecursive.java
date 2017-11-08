@@ -4,7 +4,7 @@ package beginner;
  * Created by Administrator on 11/8/2017.
  */
 
-//Implementing Binary Search using Recursion
+//Implementing Binary Search using Recursion Complexity O(log n )
 
 public class BinarySearchRecursive {
 

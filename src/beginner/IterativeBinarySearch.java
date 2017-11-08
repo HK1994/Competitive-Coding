@@ -5,6 +5,7 @@ import java.util.Scanner;
 /**
  * Created by hemantkumar on 11/8/2017.
  */
+// Iterative Approach of BinarySearch with complexity O(log n )
 public class IterativeBinarySearch {
 
     int iterativeBinarySearch(int arr[], int l, int r, int x) {
